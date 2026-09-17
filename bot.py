@@ -267,4 +267,4 @@ while True:
         f"⏳ Próxima análise em {CHECK_EVERY} segundos..."
     )
 
-    time.sleep(CHECK_EVERY)2
+    time.sleep(CHECK_EVERY)
